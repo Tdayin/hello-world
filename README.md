@@ -1,7 +1,21 @@
-# hello-world
-This is where it all started.  From here on out its either a great love story or a failed marriage.  Lets hope its not the latter.  :-) 
-I live in the PWN
-wife of 21 years
-two kids
-20 year Navy Vet
+# Jon Davis — Data & Operations Analyst
 
+QMS professional with 10+ years in regulated manufacturing, 
+pivoting to Data Analytics.
+
+## About Me
+- 🎖️ 20-year U.S. Navy veteran
+- 🏭 Quality Management Systems | ISO · cGMP · SQF
+- 📊 Building skills in SQL, Power BI, and Looker Studio
+- 🎓 Google Data Analytics Certificate (in progress)
+- 📍 Vancouver, WA (Pacific Northwest) | Open to remote roles
+
+## Currently Working On
+- Google Data Analytics Certificate (Coursera)
+- SQL foundations practice with real datasets
+- Power BI dashboard portfolio projects
+
+## Goal
+Land a remote Data Analyst, Quality Analyst, or Operations 
+Analyst role where manufacturing domain expertise meets 
+modern analytics tools.
